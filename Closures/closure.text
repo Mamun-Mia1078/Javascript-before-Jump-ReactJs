@@ -1,0 +1,9 @@
+*local variable kaz kore only scope er vitore R global variable kaz kore sob jaygay load hoyei thake 
+ *globaler value jekono jayga theeke change kora jay 
+*bahire theke call korar jonno clouser lagbe 
+ *function sob return kore
+ *closure work like local variable 
+ *javascript er prottekta functin ekekta object
+ *closure keep the parents
+ * ekta function arekte function ke close korle seta closure
+ * closure is a simple function Which remembers value

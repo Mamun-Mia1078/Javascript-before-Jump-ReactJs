@@ -1,3 +1,4 @@
 asyncronas web api er maddome kaz somponno kore fele 
  baki block gulu wait kora lage na .
  await waaait for asyncronus function .
+eror: Eror stop the execution but not handleing syntaxEror
