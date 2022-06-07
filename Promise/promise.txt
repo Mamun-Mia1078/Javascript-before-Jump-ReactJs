@@ -1,0 +1,3 @@
+// how to create a promise 
+// there are three type of Promise pending ,resolve , reject
+// resolve = then/ reject = catch/ must kono kazer jonno finally
