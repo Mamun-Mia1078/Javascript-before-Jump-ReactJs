@@ -1,0 +1,6 @@
+ekta variable ea onek gulu man neowar jonno array use kora hoy 
+arrayr moddeh sob kichu store kora jay like string , number , null , obj etc we can store multiple data
+array = collections of variable
+
+OBJECT:-
+object store multiple 
