@@ -1,0 +1,5 @@
+distructure means new structure
+onekbar use korar jonno value distruct kora hoy 
+its use very much in large project
+use second bracket on distructure object
+use third bracket on distructure array

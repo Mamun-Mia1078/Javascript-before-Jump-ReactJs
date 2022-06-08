@@ -6,3 +6,4 @@ favorite.set('os ', 'windows');
 favorite.set('mobile os', 'ios');
 console.log(favorite);
 console.log(favorite.size);
+
